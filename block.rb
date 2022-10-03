@@ -12,4 +12,4 @@ result = like_map(arr) do |number|
   number * 2
 end
 
-p result
+p result #[2, 4, 14]
